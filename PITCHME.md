@@ -1,5 +1,4 @@
-# github_scrum_game
-Hello World
+# GitHub入門
 
 ---
 # test
