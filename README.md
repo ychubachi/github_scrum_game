@@ -1,1 +1,0 @@
-# github_scrum_game
